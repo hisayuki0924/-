@@ -1,7 +1,7 @@
 <!DOCTYPE html>
  <html lang="ja">
    <head>
-     <meta charset="utf-8">
+     <meta charset="utf-2">
      <meta name="viewport", initial-scale=1">
      <title>個人的におすすめするnintendoswicth2ソフト</title>
    </head>
