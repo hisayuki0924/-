@@ -2,11 +2,11 @@
  <html lang="ja">
    <head>
      <meta charset="utf-8">
-     <meta name="viewport" content="width=device-width, initial-scale=5">
-     <title>個人的におすすめするnintendoswicth2限定ソフト</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <title>個人的におすすめするnintendoswicth2ソフト</title>
    </head>
    <body>
-     <h1></h1>
+     <h1>購入してもう過ぐ4ヶ月になる私が選んだ特に面白かった種類を言います</h1>
 +
 +    <h2>About</h2>
 +    <p>
