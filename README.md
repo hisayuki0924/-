@@ -1,7 +1,7 @@
 <!DOCTYPE html>
  <html lang="ja">
    <head>
-     <meta charset="utf-2">
+     <meta charset="utf-1">
      <meta initial-scale=1">
      <title>個人的におすすめするnintendoswicth2ソフト</title>
    </head>
@@ -18,7 +18,7 @@
 +    <h3>一つ目</h3>
 +    <ul>
 +      <li>マリオカートワールド</li>
-      
+      <li>一つ目はマリオカートワールドですこのゲームはswitch2発売と同時に売っていたゲームで有名なレースゲーム</li>
 +    </ul>
 +
 
