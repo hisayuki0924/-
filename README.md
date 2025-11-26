@@ -3,10 +3,10 @@
    <head>
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1">
-     <title>ハンドルネームのポートフォリオ</title>
+     <title>個人的におすすめするnintendoswicth2限定ソフト</title>
    </head>
    <body>
-     <h1>ハンドルネーム</h1>
+     <h1></h1>
 +
 +    <h2>About</h2>
 +    <p>
