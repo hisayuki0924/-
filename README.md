@@ -26,4 +26,3 @@
     <li>見てくださりありがとうございました</li>
    </body>
  </html>
-index.html
