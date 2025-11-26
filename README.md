@@ -1,9 +1,6 @@
 <!DOCTYPE html>
  <html lang="ja">
    <head>
-     <meta charset="utf-1">
-     <meta initial-scale=1">
-     <title>個人的におすすめするnintendoswicth2ソフト</title>
    </head>
    <body>
      <h1>購入して4ヶ月になる私が選んだ特に面白かった種類を言います</h1>
